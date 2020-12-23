@@ -38,4 +38,39 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Financial-Audit-Data-Analytics-Papers/blob/master/fin(19).pdf" style="text-decoration:none;">Machine Learning in Asset Management—Part 1: Portfolio Construction—Trading Strategies</a></li> 
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Financial-Audit-Data-Analytics-Papers/blob/master/fin(20).pdf" style="text-decoration:none;">Machine Learning in Asset Management: Part 2: Portfolio Construction—Weight Optimization</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Financial-Audit-Data-Analytics-Papers/blob/master/fin(21).pdf" style="text-decoration:none;">Big Data, Data Analytics and External Auditing</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Financial-Audit-Data-Analytics-Papers/blob/master/fin(22).pdf" style="text-decoration:none;">A Framework Model For Continuous Auditing In Financial Statement Audits Using Big Data Analytics</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Financial-Audit-Data-Analytics-Papers/blob/master/fin(23).pdf" style="text-decoration:none;">Big Data and Analytics in the Modern Audit Engagement: Research Needs</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Financial-Audit-Data-Analytics-Papers/blob/master/fin(24).pdf" style="text-decoration:none;">The effect of Data Analytics on audit efficiency</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Financial-Audit-Data-Analytics-Papers/blob/master/fin(25).pdf" style="text-decoration:none;">Data Analytics and
+Financial Compliance: How Technology Is Changing Audit and Business Systems</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Financial-Audit-Data-Analytics-Papers/blob/master/fin(26).pdf" style="text-decoration:none;">Data, Analytics and Your Audit: What Financial Executives Need to Know</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Financial-Audit-Data-Analytics-Papers/blob/master/fin(27).pdf" style="text-decoration:none;">Data And Technology:
+Transforming The Financial Information Landscape</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Financial-Audit-Data-Analytics-Papers/blob/master/fin(28).pdf" style="text-decoration:none;">Data analytics in auditing: Opportunities and challenges</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Financial-Audit-Data-Analytics-Papers/blob/master/fin(29).pdf" style="text-decoration:none;">An Exploratory Study into the Use of Audit Data Analytics on Audit Engagements </a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Financial-Audit-Data-Analytics-Papers/blob/master/fin(30).pdf" style="text-decoration:none;">Public Auditing, Analytics, and Big Data in the Modern Economy</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Financial-Audit-Data-Analytics-Papers/blob/master/fin(31).pdf" style="text-decoration:none;">Auditors' Perceptions of and Competencies in Big Data and Data Analytics: An Empirical Investigation</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Financial-Audit-Data-Analytics-Papers/blob/master/fin(32).pdf" style="text-decoration:none;">Changing Trends in Internal Audit and Advanced Analytics</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Financial-Audit-Data-Analytics-Papers/blob/master/fin(33).pdf" style="text-decoration:none;">Big Data in Accounting and Finance: A Review of Influential Publications and a Research Agenda</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Financial-Audit-Data-Analytics-Papers/blob/master/fin(34).pdf" style="text-decoration:none;">Best Practices for the Use of Data Analysis in Audit</a></li> 
+ 
+
+
+
+
+
+
+
 </ul>
